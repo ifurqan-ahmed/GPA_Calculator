@@ -9,7 +9,6 @@ def gt
 end
 
 
-
 p "My GPA Calculator"
 
 print "Enter no. of subjects: "
